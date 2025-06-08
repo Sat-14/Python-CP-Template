@@ -46,22 +46,9 @@ python main.py
 LOCAL_TESTING = False  # Change from True to False
 ```
 
-## 🛠️ Setup
 
-### File Structure
-```
-cp-python-template/
-├── main.py              # Main template file
-├── input.txt            # Test input file
-├── output.txt           # (Optional) Output file
-├── test_setup.py        # Setup verification script
-├── docs/
-│   └── documentation.md # Detailed function documentation
-└── examples/
-    ├── graph_example.py
-    ├── dp_example.py
-    └── string_example.py
-```
+
+
 
 ### Requirements
 - Python 3.6+
